@@ -1,3 +1,13 @@
 git commit -m "Add new personal details like CV in html page" <br>
 
 git clone https://github.com/anshpn8/Demo_for_github_learn.git <br>
+
+for one file add:
+git add 'file_name without quote and with extension'
+
+for all files add:
+git add .
+
+for push:
+git push origin main
+
