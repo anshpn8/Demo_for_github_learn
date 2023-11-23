@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 'git status'
 to know the status of all changes
@@ -14,3 +15,18 @@ to know all the file in the folder
 
 3.To push the code on github cloud 'git push origin main'
 git push origin main
+=======
+git commit -m "Add new personal details like CV in html page" <br>
+
+git clone https://github.com/anshpn8/Demo_for_github_learn.git <br>
+
+for one file add:
+git add 'file_name without quote and with extension'
+
+for all files add:
+git add .
+
+for push:
+git push origin main
+
+>>>>>>> 6ba82bb422cec871a17c190cb690b611503705e3
