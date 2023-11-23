@@ -63,3 +63,10 @@ git help --all -  See all possible commands
 
 New Git Branch:
 git branch hello-world-images
+
+
+Let's confirm that we have created a new branch:
+git branch
+
+checkout is the command used to check out a branch. Moving us from the current branch, to the one specified at the end of the command:
+git checkout hello-world-images
