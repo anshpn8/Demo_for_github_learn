@@ -70,9 +70,3 @@ git branch
 
 checkout is the command used to check out a branch. Moving us from the current branch, to the one specified at the end of the command:
 git checkout hello-world-images
-
-Emergency Branch
-Now imagine that we are not yet done with hello-world-images, but we need to fix an error on master.
-
-So we create a new branch to deal with the emergency:
-git checkout -b emergency-fix
