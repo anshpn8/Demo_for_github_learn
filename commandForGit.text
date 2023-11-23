@@ -11,6 +11,13 @@ to know all the file in the folder
 :to clone the github cloud repository
 
 1.To Add   'git add new.html'
+
+git add -A
+git add -all
+
+To check the minar changes
+git status --short
+
 2.To Commit 'git commit -m "added html file and readme file update"'
 
 3.To push the code on github cloud 'git push origin main'
@@ -29,4 +36,24 @@ git add .
 for push:
 git push origin main
 
+The shorthand command for git add --all is 
+
 >>>>>>> 6ba82bb422cec871a17c190cb690b611503705e3
+
+
+
+
+: Short status flags are:
+
+?? - Untracked files
+A - Files added to stage
+M - Modified files
+D - Deleted files
+
+
+Warning: Skipping the Staging Environment is not generally recommended.
+Skipping the stage step can sometimes make you include unwanted changes.
+
+Git Commit Log
+To view the history of commits for a repository, you can use the log command:
+'git log'
