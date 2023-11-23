@@ -1,0 +1,16 @@
+
+'git status'
+to know the status of all changes
+
+'ls -a'
+to know all the file in the folder
+
+
+'git clone https://github.com/anshpn8/Demo_for_github_learn.git'
+:to clone the github cloud repository
+
+1.To Add   'git add new.html'
+2.To Commit 'git commit -m "added html file and readme file update"'
+
+3.To push the code on github cloud 'git push origin main'
+git push origin main
