@@ -57,3 +57,6 @@ Skipping the stage step can sometimes make you include unwanted changes.
 Git Commit Log
 To view the history of commits for a repository, you can use the log command:
 'git log'
+
+git command -help -  See all the available options for the specific command
+git help --all -  See all possible commands
